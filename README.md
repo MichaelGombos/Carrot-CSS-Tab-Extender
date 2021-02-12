@@ -8,7 +8,7 @@ Download the Carrot CSS tab Extender at [livelink]
 
 ## Usage
 
-After downloading the Carrot CSS tab extender; Enable it, Head over to your carrot account on carrot.com, go to your sites dashboard, then design, and voilà! The css tab on the left site is now actually usable 😃.
+After downloading the Carrot CSS tab extender; Enable it, Head over to your carrot account on carrot.com, go to your sites dashboard, then design, and voilà! The css tab is now actually usable 😃.
 
 ![Here is a Demonstration of the exention extending the css tab in Carrot](https://raw.githubusercontent.com/MichaelGombos/Carrot-CSS-Tab-Extender/master/Demo/Demo_page.png)
 ## Contributing
