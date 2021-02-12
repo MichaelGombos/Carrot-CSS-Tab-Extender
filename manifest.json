@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Carrot Css Tab Extender",
+  "version": "0.1.0",
+  "description": "Extends the css editor in the left tab in the carrot design page",
+
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "matches": ["https://alphahomesmain.carrot.com/wp-admin/customize.php*"]
+    }
+  ]
+}
