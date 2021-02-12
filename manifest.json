@@ -9,7 +9,7 @@
     {
       "css": ["styles.css"],
       "js": ["content.js"],
-      "matches": ["https://alphahomesmain.carrot.com/wp-admin/customize.php*"]
+      "matches": ["https://*.carrot.com/wp-admin/customize.php*"]
     }
   ]
 }
