@@ -4,7 +4,11 @@
   "name": "Carrot Css Tab Extender",
   "version": "0.1.0",
   "description": "Extends the css editor in the left tab in the carrot design page",
-
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "content_scripts": [
     {
       "css": ["styles.css"],
