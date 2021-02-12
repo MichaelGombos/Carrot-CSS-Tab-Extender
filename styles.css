@@ -1,0 +1,5 @@
+.customize-control-code_editor .CodeMirror,
+.customize-control-code_editor textarea {
+  height: 54em !important;
+  /* adjusts the left side of the editor */
+}
