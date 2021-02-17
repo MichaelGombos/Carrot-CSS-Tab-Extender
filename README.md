@@ -4,7 +4,7 @@ Carrot CSS tab Extender is a chrome extension for extending the left side design
 
 ## Installation
 
-Download the Carrot CSS tab Extender at [livelink]
+Download the Carrot CSS tab Extender at [https://chrome.google.com/webstore/detail/carrot-css-tab-extender/lgkdfebkigaodhjhbceehdilafpdallo?hl=en&authuser=0]
 
 ## Usage
 
